@@ -1,0 +1,62 @@
+{% extends 'pages/index.html' %}
+{%load static%}
+{% block content %}
+    <body>
+        <main class="l-main">
+  
+            <section class="home bd-grid" id="home">
+                    <div class="row">
+                      <div class="col-sm-6">
+                        <h1><span class="main-color multitext" style="background: transparent;">Inspirational Quote Generator</span></h1>
+                        <b id="paragraph" style="color: black;">Hey, You're not alone, you have people in your life, and even people you didn't see coming, who are more than willing to reach out and be there for you. Smile </b>
+                         <a id="discord" class="btn btn-lg btn-default btn-block" href="https://www.instagram.com/vuvujeth/" target="blank_"></i>  Message me in IG</a>
+                      </div>
+                      <div class="col-sm-6">
+                        <div class="row">
+                          <div class="col-xs-6">
+                            <a id="next-quote" class="btn btn-lg btn-default btn-block" href="#"><i class="">Generate</a>
+                          </div>
+                  
+                          <div class="col-xs-6">
+                            <a id="share" class="btn btn-lg btn-default btn-block" href="#" target="_top"> Share</a>
+                          </div>
+                        </div>
+                        
+                        <div id="quote-box">
+                          <b id="quote"></b>
+                          <span id="author" class="main-color"></span>
+                          
+                        </div>
+                             
+                        <div class="row">       
+                          <div class="col-xs-12">
+                            <ul>
+                              <li></li>
+                              <li><a class="main-color" href="" target="_blank"></a></li>
+                                </ul>
+                              </div>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                 
+                  <script>
+                        var typingEffect = new Typed(".multitext",{
+                            strings : ["Inspirational Quote Generator","Inspirational Quote Generator"],
+                            loop : true,
+                            typeSpeed : 50,
+                            backSpeed : 50,
+                            backDelay : 120
+                        })
+                     </script>
+
+            </section>
+
+
+         
+
+       
+        <script src="https://unpkg.com/scrollreveal"></script>
+    </div>
+    </body>
+{% endblock %}
