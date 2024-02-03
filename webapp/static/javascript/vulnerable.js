@@ -24,7 +24,7 @@ function updateQuote(quoteNumber) {
         $(this).removeClass();
     });
 
-    $("#share").attr("href", "https://twitter.com/intent/tweet?text=\"" + encodeURIComponent($("#hidden").html(randomQuote.quote).text()) + "\" diff_jeth" + quoteNumber);
+    $("#share").attr("href", "https://twitter.com/intent/tweet?text=\"" + encodeURIComponent($("#hidden").html(randomQuote.quote).text()) + "\" kennethpajo" + quoteNumber);
 }
 
 function getRandomQuoteNumber() {
@@ -32,955 +32,955 @@ function getRandomQuoteNumber() {
 }
 
 var quotes = [{
-        "author": "Jethro Jabay",
+        "author": "Kenneth Pajo",
         "quote": "Anong favourite number mo sa electric fan"
     },
     {
-        "author": "Jethro Jabay",
+        "author": "Kenneth Pajo",
         "quote": "Nakakapagod pala pag laging nakaupo pwede ba tayo nalang"
     },
     {
-        "author": "Jethro Jabay",
+        "author": "Kenneth Pajo",
         "quote": "Katulad ng bold sa japan, malabo kitang iwan"
     },
     {
-        "author": "Jethro Jabay",
+        "author": "Kenneth Pajo",
         "quote": "Anong dasal dinadasal mo kada gabi"
     },
     {
-        "author": "Jethro Jabay",
+        "author": "Kenneth Pajo",
         "quote": "Anong ulam nyo kagabi"
     },
     {
-        "author": "Jethro Jabay",
+        "author": "Kenneth Pajo",
         "quote": "Kung papapiliin ka, bat ako"
     },
     {
-        "author": "Jethro Jabay",
+        "author": "Kenneth Pajo",
         "quote": "Alam moba kaya walang araw sa gabi, kase walang araw na di kita namimiss"
     },
     {
-        "author": "Jethro Jabay",
+        "author": "Kenneth Pajo",
         "quote": "Happiness is a choice, that why i choose you"
     },
     {
-        "author": "Jethro Jabay",
+        "author": "Kenneth Pajo",
         "quote": "Si joserizal nasa piso, ikaw nasa puso ko"
     },
     {
-        "author": "Jethro Jabay",
+        "author": "Kenneth Pajo",
         "quote": "Kung si ed caluag may nakikitang iba ako wala, ikaw lang talaga"
     },
     {
-        "author": "Jethro Jabay",
+        "author": "Kenneth Pajo",
         "quote": "Magagalit ba si gusion, kung tayo ang perfect combination"
     },
     {
-        "author": "Jethro Jabay",
+        "author": "Kenneth Pajo",
         "quote": "Kung bibigyan ako tatlong kahilingan, tatlong beses kita hihilingin"
     },
     {
-        "author": "Jethro Jabay",
+        "author": "Kenneth Pajo",
         "quote": "I am not good at math, but i can give you the value you deserve"
     },
     {
-        "author": "Jethro Jabay",
+        "author": "Kenneth Pajo",
         "quote": "Anong oras ginagawa yung orasan"
     },
     {
-        "author": "Jethro Jabay",
+        "author": "Kenneth Pajo",
         "quote": "Anong araw ginagawa yung calendar"
     },
     {
-        "author": "Jethro Jabay",
+        "author": "Kenneth Pajo",
         "quote": "Baka ipagpalit moko sa malapit wag ah may pamasahe naman ako"
     },
     {
-        "author": "Jethro Jabay",
+        "author": "Kenneth Pajo",
         "quote": "Anong oras ka mag rereply mag aalarm ako"
     },
     {
-        "author": "Jethro Jabay",
+        "author": "Kenneth Pajo",
         "quote": "Every mistake can be a lesson"
     },
     {
-        "author": "Jethro Jabay",
+        "author": "Kenneth Pajo",
         "quote": "Wag mong mahalin yung sarili mo, obligasyon ko yan"
     },
     {
-        "author": "Jethro Jabay",
+        "author": "Kenneth Pajo",
         "quote": "Ha? hastronaut"
     },
     {
-        "author": "Jethro Jabay",
+        "author": "Kenneth Pajo",
         "quote": "Emergency Vehicle Notification Systems"
     },
     {
-        "author": "Jethro Jabay",
+        "author": "Kenneth Pajo",
         "quote": "Benefits of Data Mining"
     },
     {
-        "author": "Jethro Jabay",
+        "author": "Kenneth Pajo",
         "quote": "Student Tracking Performance"
     },
     {
-        "author": "Jethro Jabay",
+        "author": "Kenneth Pajo",
         "quote": "Library Information System"
     },
     {
-        "author": "Jethro Jabay",
+        "author": "Kenneth Pajo",
         "quote": "Student Information System"
     },
     {
-        "author": "Jethro Jabay",
+        "author": "Kenneth Pajo",
         "quote": "Student Handbook Application"
     },
     {
-        "author": "Jethro Jabay",
+        "author": "Kenneth Pajo",
         "quote": "Thesis and Capstone Archiving System"
     },
     {
-        "author": "Jethro Jabay",
+        "author": "Kenneth Pajo",
         "quote": "School Portal Application"
     },
     {
-        "author": "Jethro Jabay",
+        "author": "Kenneth Pajo",
         "quote": "School Events Attendance System"
     },
     {
-        "author": "Jethro Jabay",
+        "author": "Kenneth Pajo",
         "quote": "Grading System"
     },
     {
-        "author": "Jethro Jabay",
+        "author": "Kenneth Pajo",
         "quote": "Student Profile and Guidance Services with Decision Support"
     },
     {
-        "author": "Jethro Jabay",
+        "author": "Kenneth Pajo",
         "quote": "Faculty Evaluation System"
     },
     {
-        "author": "Jethro Jabay",
+        "author": "Kenneth Pajo",
         "quote": "Online School Documents Processing with Payment System"
     },
     {
-        "author": "Jethro Jabay",
+        "author": "Kenneth Pajo",
         "quote": "Class Scheduling System"
     },
     {
-        "author": "Jethro Jabay",
+        "author": "Kenneth Pajo",
         "quote": "Student Council Voting System"
     },
     {
-        "author": "Jethro Jabay",
+        "author": "Kenneth Pajo",
         "quote": "Android Based E-learning"
     },
     {
-        "author": "Jethro Jabay",
+        "author": "Kenneth Pajo",
         "quote": "OJT Records Monitoring System"
     },
     {
-        "author": "Jethro Jabay",
+        "author": "Kenneth Pajo",
         "quote": "Sales and Inventory System"
     },
     {
-        "author": "Jethro Jabay",
+        "author": "Kenneth Pajo",
         "quote": "Point of Sale Application"
     },
     {
-        "author": "Jethro Jabay",
+        "author": "Kenneth Pajo",
         "quote": "Boarding House Management System"
     },
     {
-        "author": "Jethro Jabay",
+        "author": "Kenneth Pajo",
         "quote": "COOP Management System"
     },
     {
-        "author": "Jethro Jabay",
+        "author": "Kenneth Pajo",
         "quote": "Insurance Management System"
     },
 
     {
-        "author": "Jethro Jabay",
+        "author": "Kenneth Pajo",
         "quote": "Beauty Parlor Management System"
     },
     {
-        "author": "Jethro Jabay",
+        "author": "Kenneth Pajo",
         "quote": "Daily Time Record and Payroll System with Barcode/Biometric"
     },
     {
-        "author": "Jethro Jabay",
+        "author": "Kenneth Pajo",
         "quote": "Budget Management System"
     },
     {
-        "author": "Jethro Jabay",
+        "author": "Kenneth Pajo",
         "quote": "Queuing System"
     },
     {
-        "author": "Jethro Jabay",
+        "author": "Kenneth Pajo",
         "quote": "Financial Management with SMS Notification"
     },
     {
-        "author": "Jethro Jabay",
+        "author": "Kenneth Pajo",
         "quote": "Procurement Management System"
     },
     {
-        "author": "Jethro Jabay",
+        "author": "Kenneth Pajo",
         "quote": "Financial Documents Archiving Management System"
     },
     {
-        "author": "Jethro Jabay",
+        "author": "Kenneth Pajo",
         "quote": "Teller’s Queuing System Using Barcode Technology"
     },
     {
-        "author": "Jethro Jabay",
+        "author": "Kenneth Pajo",
         "quote": "Service Marketplace System"
     },
     {
-        "author": "Jethro Jabay",
+        "author": "Kenneth Pajo",
         "quote": "Tailor Booking Management System"
     },
     {
-        "author": "Jethro Jabay",
+        "author": "Kenneth Pajo",
         "quote": "Expense Tracking and Monitoring System"
     },
     {
-        "author": "Jethro Jabay",
+        "author": "Kenneth Pajo",
         "quote": "Loan Transaction and Reservation with SMS"
     },
     {
-        "author": "Jethro Jabay",
+        "author": "Kenneth Pajo",
         "quote": "Accounting Information Management System"
     },
     {
-        "author": "Jethro Jabay",
+        "author": "Kenneth Pajo",
         "quote": "Food Order and Catering Services System"
     },
     {
-        "author": "Jethro Jabay",
+        "author": "Kenneth Pajo",
         "quote": "Online and SMS Based Salary Notification"
     },
     {
-        "author": "Jethro Jabay",
+        "author": "Kenneth Pajo",
         "quote": "Pharmacy Stocks Management"
     },
     {
-        "author": "Jethro Jabay",
+        "author": "Kenneth Pajo",
         "quote": "Laundry Booking System"
     },
     {
-        "author": "Jethro Jabay",
+        "author": "Kenneth Pajo",
         "quote": "Hotel Reservation Application"
     },
     {
-        "author": "Jethro Jabay",
+        "author": "Kenneth Pajo",
         "quote": "Tourism Management Database System"
     },
     {
-        "author": "Jethro Jabay",
+        "author": "Kenneth Pajo",
         "quote": "Management Information Systems for Tourism and Hospitality"
     },
     {
-        "author": "Jethro Jabay",
+        "author": "Kenneth Pajo",
         "quote": "Hotel And Restaurant Management And Monitoring System with SMS Support"
     },
     {
-        "author": "Jethro Jabay",
+        "author": "Kenneth Pajo",
         "quote": "Mobile Based Tourist Destination Information"
     },
     {
-        "author": "Jethro Jabay",
+        "author": "Kenneth Pajo",
         "quote": "Hotel Best Prices Mobile Application"
     },
     {
-        "author": "Jethro Jabay",
+        "author": "Kenneth Pajo",
         "quote": "Hospitality Information System"
     },
     {
-        "author": "Jethro Jabay",
+        "author": "Kenneth Pajo",
         "quote": "Cloud-Based Property and Hospitality Management"
     },
     {
-        "author": "Jethro Jabay",
+        "author": "Kenneth Pajo",
         "quote": "Hotel Booking App For Smart Travel"
     },
     {
-        "author": "Jethro Jabay",
+        "author": "Kenneth Pajo",
         "quote": "Point of Sale (PoS) System used in the Hotel Industry"
     },
     {
-        "author": "Jethro Jabay",
+        "author": "Kenneth Pajo",
         "quote": "BrowseHotel: Hotel Hopping using Mobile Devices"
     },
     {
-        "author": "Jethro Jabay",
+        "author": "Kenneth Pajo",
         "quote": "Transaction Processing System in Hotel and Restaurant"
     },
     {
-        "author": "Jethro Jabay",
+        "author": "Kenneth Pajo",
         "quote": "Travel Destination and Events Portal Capstone Project"
     },
     {
-        "author": "Jethro Jabay",
+        "author": "Kenneth Pajo",
         "quote": "Property Management Information System"
     },
     {
-        "author": "Jethro Jabay",
+        "author": "Kenneth Pajo",
         "quote": "Hotels and Vacation Rentals"
     },
     {
-        "author": "Jethro Jabay",
+        "author": "Kenneth Pajo",
         "quote": "Maternal Records Management"
     },
     {
-        "author": "Jethro Jabay",
+        "author": "Kenneth Pajo",
         "quote": "Smart Healthcare Support for Remote Patient Monitoring During COVID-19 Quarantine"
     },
     {
-        "author": "Jethro Jabay",
+        "author": "Kenneth Pajo",
         "quote": "X-Ray Results Image Archiving"
     },
     {
-        "author": "Jethro Jabay",
+        "author": "Kenneth Pajo",
         "quote": "First Aid Knowledge-Based Mobile Application"
     },
     {
-        "author": "Jethro Jabay",
+        "author": "Kenneth Pajo",
         "quote": "Hospital Management System"
     },
     {
-        "author": "Jethro Jabay",
+        "author": "Kenneth Pajo",
         "quote": "Hospital Resources and Room Utilization"
     },
     {
-        "author": "Jethro Jabay",
+        "author": "Kenneth Pajo",
         "quote": "Online Platform for COVID-19 Contact Tracing System"
     },
     {
-        "author": "Jethro Jabay",
+        "author": "Kenneth Pajo",
         "quote": "Nutrition Office Management Information System"
     },
     {
-        "author": "Jethro Jabay",
+        "author": "Kenneth Pajo",
         "quote": "Patient monitoring and tracking system of family planning in the community"
     },
     {
-        "author": "Jethro Jabay",
+        "author": "Kenneth Pajo",
         "quote": "Mask Wearing Monitoring Application"
     },
     {
-        "author": "Jethro Jabay",
+        "author": "Kenneth Pajo",
         "quote": "Mobile Based E-Prescribing App with Admin Panel"
     },
     {
-        "author": "Jethro Jabay",
+        "author": "Kenneth Pajo",
         "quote": "Clinic Management System"
     },
     {
-        "author": "Jethro Jabay",
+        "author": "Kenneth Pajo",
         "quote": "Online Platform for Patient Dental and Medical Records"
     },
     {
-        "author": "Jethro Jabay",
+        "author": "Kenneth Pajo",
         "quote": "Web-Based Psychopathology Diagnosis System"
     },
     {
-        "author": "Jethro Jabay",
+        "author": "Kenneth Pajo",
         "quote": "Health and Welfare Monitoring System"
     },
     {
-        "author": "Jethro Jabay",
+        "author": "Kenneth Pajo",
         "quote": "Mobile Based Common Ailment Guide with Admin Panel"
     },
     {
-        "author": "Jethro Jabay",
+        "author": "Kenneth Pajo",
         "quote": "Blood Bank Information System"
     },
     {
-        "author": "Jethro Jabay",
+        "author": "Kenneth Pajo",
         "quote": "Medicine Reminder Application"
     },
     {
-        "author": "Jethro Jabay",
+        "author": "Kenneth Pajo",
         "quote": "Web and Mobile Based Information of Herbal Plants and Medicinal Usages"
     },
     {
-        "author": "Jethro Jabay",
+        "author": "Kenneth Pajo",
         "quote": "Android Based Fitness and Exercise App"
     },
     {
-        "author": "Jethro Jabay",
+        "author": "Kenneth Pajo",
         "quote": "Gym Management System"
     },
     {
-        "author": "Jethro Jabay",
+        "author": "Kenneth Pajo",
         "quote": "Nutrition and Diet Mobile Application"
     },
     {
-        "author": "Jethro Jabay",
+        "author": "Kenneth Pajo",
         "quote": "Contact Tracing Application"
     },
     {
-        "author": "Jethro Jabay",
+        "author": "Kenneth Pajo",
         "quote": " COVID-19 Facilities Information System"
     },
     {
-        "author": "Jethro Jabay",
+        "author": "Kenneth Pajo",
         "quote": "Online Bus Ticket Reservation"
     },
     {
-        "author": "Jethro Jabay",
+        "author": "Kenneth Pajo",
         "quote": "Vehicle Rental System with Mobile App Support"
     },
     {
-        "author": "Jethro Jabay",
+        "author": "Kenneth Pajo",
         "quote": "Driving School Management System"
     },
     {
-        "author": "Jethro Jabay",
+        "author": "Kenneth Pajo",
         "quote": "Shipping Management System"
     },
     {
-        "author": "Jethro Jabay",
+        "author": "Kenneth Pajo",
         "quote": "Vehicle Insurance Information System"
     },
     {
-        "author": "Jethro Jabay",
+        "author": "Kenneth Pajo",
         "quote": "GPS based Vehicle Theft Detection System using GSM Technology"
     },
     {
-        "author": "Jethro Jabay",
+        "author": "Kenneth Pajo",
         "quote": "Bike Portal Information System"
     },
     {
-        "author": "Jethro Jabay",
+        "author": "Kenneth Pajo",
         "quote": "Vehicle Parking Management System"
     },
     {
-        "author": "Jethro Jabay",
+        "author": "Kenneth Pajo",
         "quote": "Vehicle Impoundment Information Management System"
     },
     {
-        "author": "Jethro Jabay",
+        "author": "Kenneth Pajo",
         "quote": "Vehicle Registration Portal"
     },
     {
-        "author": "Jethro Jabay",
+        "author": "Kenneth Pajo",
         "quote": "Vehicle Franchising and Drivers Offense Software"
     },
     {
-        "author": "Jethro Jabay",
+        "author": "Kenneth Pajo",
         "quote": "Traffic Management System"
     },
     {
-        "author": "Jethro Jabay",
+        "author": "Kenneth Pajo",
         "quote": "Mobile Based Airline Reservation System (Android and IOS)"
     },
     {
-        "author": "Jethro Jabay",
+        "author": "Kenneth Pajo",
         "quote": "Tricycle Driver Conduct Reporting Mobile Application"
     },
     {
-        "author": "Jethro Jabay",
+        "author": "Kenneth Pajo",
         "quote": "PUV Transportation Route and Mapping System"
     },
     {
-        "author": "Jethro Jabay",
+        "author": "Kenneth Pajo",
         "quote": "Driving School Management System"
     },
     {
-        "author": "Jethro Jabay",
+        "author": "Kenneth Pajo",
         "quote": "QR Code Fare Payment System"
     },
     {
-        "author": "Jethro Jabay",
+        "author": "Kenneth Pajo",
         "quote": "Courier Management System"
     },
     {
-        "author": "Jethro Jabay",
+        "author": "Kenneth Pajo",
         "quote": "Mobile Based Emergency Reporting with SMS Support"
     },
     {
-        "author": "Jethro Jabay",
+        "author": "Kenneth Pajo",
         "quote": "Interactive Flood Hazard Map"
     },
     {
-        "author": "Jethro Jabay",
+        "author": "Kenneth Pajo",
         "quote": "Web and Mobile Crime Reporting System"
     },
     {
-        "author": "Jethro Jabay",
+        "author": "Kenneth Pajo",
         "quote": "Weather Prediction App"
     },
     {
-        "author": "Jethro Jabay",
+        "author": "Kenneth Pajo",
         "quote": "Bantay Baha Alert System with SMS and Push Notification"
     },
     {
-        "author": "Jethro Jabay",
+        "author": "Kenneth Pajo",
         "quote": "Fire and Smoke Detection Application with SMS Notification"
     },
     {
-        "author": "Jethro Jabay",
+        "author": "Kenneth Pajo",
         "quote": "SMS-based Flood Monitoring System"
     },
     {
-        "author": "Jethro Jabay",
+        "author": "Kenneth Pajo",
         "quote": "Crisis Information Management Software"
     },
     {
-        "author": "Jethro Jabay",
+        "author": "Kenneth Pajo",
         "quote": "Data Platform for Emergency Response Management"
     },
     {
-        "author": "Jethro Jabay",
+        "author": "Kenneth Pajo",
         "quote": "Fire Extinguisher and Fire Fighting Drone"
     },
     {
-        "author": "Jethro Jabay",
+        "author": "Kenneth Pajo",
         "quote": "Disaster Management Information System"
     },
     {
-        "author": "Jethro Jabay",
+        "author": "Kenneth Pajo",
         "quote": "Crime Scene Management Mobile Application"
     },
     {
-        "author": "Jethro Jabay",
+        "author": "Kenneth Pajo",
         "quote": "Android Based Controlled Water Sprinkler"
     },
     {
-        "author": "Jethro Jabay",
+        "author": "Kenneth Pajo",
         "quote": "Online Platform for Plant Calendar Scheduling"
     },
     {
-        "author": "Jethro Jabay",
+        "author": "Kenneth Pajo",
         "quote": "MobileMangrove a Mobile-Based Mangrove Species Field Guide"
     },
     {
-        "author": "Jethro Jabay",
+        "author": "Kenneth Pajo",
         "quote": "Mobile Based Instructional Material for Agriculture"
     },
     {
-        "author": "Jethro Jabay",
+        "author": "Kenneth Pajo",
         "quote": "Soil Moisture Sensor using Micro Controller"
     },
     {
-        "author": "Jethro Jabay",
+        "author": "Kenneth Pajo",
         "quote": "E-commerce Platform for Farm Trading Activities"
     },
     {
-        "author": "Jethro Jabay",
+        "author": "Kenneth Pajo",
         "quote": "Web and Mobile Based Monitoring and Tracking of Fertilizer Delivery Products"
     },
     {
-        "author": "Jethro Jabay",
+        "author": "Kenneth Pajo",
         "quote": "Online Record Archiving of Soil Analysis Results"
     },
     {
-        "author": "Jethro Jabay",
+        "author": "Kenneth Pajo",
         "quote": "Drone Based Seeding Application Controlled by Mobile Devices"
     },
     {
-        "author": "Jethro Jabay",
+        "author": "Kenneth Pajo",
         "quote": "Dairy Farm Management System"
     },
     {
-        "author": "Jethro Jabay",
+        "author": "Kenneth Pajo",
         "quote": "Water Monitoring For Aquaculture with SMS Notification"
     },
     {
-        "author": "Jethro Jabay",
+        "author": "Kenneth Pajo",
         "quote": "Arduino Based Irrigation Device with Android Controlled Settings"
     },
     {
-        "author": "Jethro Jabay",
+        "author": "Kenneth Pajo",
         "quote": "Android Based Feeds Scheduler Dispensing Application"
     },
     {
-        "author": "Jethro Jabay",
+        "author": "Kenneth Pajo",
         "quote": "Mobile Based Farm Management Application"
     },
     {
-        "author": "Jethro Jabay",
+        "author": "Kenneth Pajo",
         "quote": "Electronic Watering System for Vegetable Nursery Garden"
     },
     {
-        "author": "Jethro Jabay",
+        "author": "Kenneth Pajo",
         "quote": "Solar-Powered Water Filtration System used in Farm Land"
     },
     {
-        "author": "Jethro Jabay",
+        "author": "Kenneth Pajo",
         "quote": "Curfew and Travel Pass Information System"
     },
     {
-        "author": "Jethro Jabay",
+        "author": "Kenneth Pajo",
         "quote": "Evacuation Center Management System"
     },
     {
-        "author": "Jethro Jabay",
+        "author": "Kenneth Pajo",
         "quote": "PWD Information System"
     },
     {
-        "author": "Jethro Jabay",
+        "author": "Kenneth Pajo",
         "quote": "Cloud-Based Business Permit Processing"
     },
     {
-        "author": "Jethro Jabay",
+        "author": "Kenneth Pajo",
         "quote": "Vaccine Distribution System"
     },
     {
-        "author": "Jethro Jabay",
+        "author": "Kenneth Pajo",
         "quote": "Senior Citizen Information System"
     },
     {
-        "author": "Jethro Jabay",
+        "author": "Kenneth Pajo",
         "quote": "DSWD Donation System"
     },
     {
-        "author": "Jethro Jabay",
+        "author": "Kenneth Pajo",
         "quote": "Information System for Bureau of Fire Protection"
     },
     {
-        "author": "Jethro Jabay",
+        "author": "Kenneth Pajo",
         "quote": "Poverty and Malnutrition Monitoring System"
     },
     {
-        "author": "Jethro Jabay",
+        "author": "Kenneth Pajo",
         "quote": "Project Monitoring and Evaluation System"
     },
     {
-        "author": "Jethro Jabay",
+        "author": "Kenneth Pajo",
         "quote": "BJMP’S Visitor’s Log Monitoring System"
     },
     {
-        "author": "Jethro Jabay",
+        "author": "Kenneth Pajo",
         "quote": "City Business Permit and Monitoring System with Decision Support"
     },
     {
-        "author": "Jethro Jabay",
+        "author": "Kenneth Pajo",
         "quote": "Barangay Records Management System"
     },
     {
-        "author": "Jethro Jabay",
+        "author": "Kenneth Pajo",
         "quote": "Housing Information Management with Mapping"
     },
     {
-        "author": "Jethro Jabay",
+        "author": "Kenneth Pajo",
         "quote": "Census Monitoring"
     },
     {
-        "author": "Jethro Jabay",
+        "author": "Kenneth Pajo",
         "quote": "Cedula Mobile: Cedula and Certification Request Mobile Application"
     },
     {
-        "author": "Jethro Jabay",
+        "author": "Kenneth Pajo",
         "quote": "Health Center Information Management System"
     },
     {
-        "author": "Jethro Jabay",
+        "author": "Kenneth Pajo",
         "quote": ""
     }, {
-        "author": "Jethro Jabay",
+        "author": "Kenneth Pajo",
         "quote": "What are Data Breaches and How to Prevent Them"
     }, {
-        "author": "Jethro Jabay",
+        "author": "Kenneth Pajo",
         "quote": "Improving Data Security"
     }, {
-        "author": "Jethro Jabay",
+        "author": "Kenneth Pajo",
         "quote": "Benefits of Car Transportation Systems"
     }, {
-        "author": "Jethro Jabay",
+        "author": "Kenneth Pajo",
         "quote": "Ecommerce Pricing Control Systems"
     }, {
-        "author": "Jethro Jabay",
+        "author": "Kenneth Pajo",
         "quote": "Apps for Monitoring Temperature"
     }, {
-        "author": "Jethro Jabay",
+        "author": "Kenneth Pajo",
         "quote": "Mobile Event Planners"
     }, {
-        "author": "Jethro Jabay",
+        "author": "Kenneth Pajo",
         "quote": "Alarm SMS Notification Systems"
     }, {
-        "author": "Jethro Jabay",
+        "author": "Kenneth Pajo",
         "quote": "Mobile Learning: How it Works"
     }, {
-        "author": "Jethro Jabay",
+        "author": "Kenneth Pajo",
         "quote": "Project Management Systems"
     }, {
-        "author": "Jethro Jabay",
+        "author": "Kenneth Pajo",
         "quote": "Machine Learning and Big Data"
     }, {
-        "author": "Jethro Jabay",
+        "author": "Kenneth Pajo",
         "quote": "University Networks"
     }, {
-        "author": "Jethro Jabay",
+        "author": "Kenneth Pajo",
         "quote": "ARPANET: How The Internet Started"
     }, {
-        "author": "Jethro Jabay",
+        "author": "Kenneth Pajo",
         "quote": "Latest Ecommerce Technologies"
     }, {
-        "author": "Jethro Jabay",
+        "author": "Kenneth Pajo",
         "quote": "Cre Principles of Cybersecurity"
     }, {
-        "author": "Jethro Jabay",
+        "author": "Kenneth Pajo",
         "quote": "Information Technology in the 21st century"
     }, {
-        "author": "Jethro Jabay",
+        "author": "Kenneth Pajo",
         "quote": "Java Programming: The Basics"
     }, {
-        "author": "Jethro Jabay",
+        "author": "Kenneth Pajo",
         "quote": "Software Testing 101"
     }, {
-        "author": "Jethro Jabay",
+        "author": "Kenneth Pajo",
         "quote": "Introduction to Software Quality Assurance"
     }, {
-        "author": "Jethro Jabay",
+        "author": "Kenneth Pajo",
         "quote": "Employee Productivity Apps"
     }, {
-        "author": "Jethro Jabay",
+        "author": "Kenneth Pajo",
         "quote": "Onboarding Systems and HR"
     }, {
-        "author": "Jethro Jabay",
+        "author": "Kenneth Pajo",
         "quote": "Cloud-Based Software vs. On-Site Solutions"
     }, {
-        "author": "Jethro Jabay",
+        "author": "Kenneth Pajo",
         "quote": "Benefits of Cloud Solutions"
     }, {
-        "author": "Jethro Jabay",
+        "author": "Kenneth Pajo",
         "quote": "Hotel PMS Systems"
     }, {
-        "author": "Jethro Jabay",
+        "author": "Kenneth Pajo",
         "quote": "Smart Technology in the Hotel Industry"
     }, {
-        "author": "Jethro Jabay",
+        "author": "Kenneth Pajo",
         "quote": "IoT and Data"
     }, {
-        "author": "Jethro Jabay",
+        "author": "Kenneth Pajo",
         "quote": "New IoT Gadgets"
     }, {
-        "author": "Jethro Jabay",
+        "author": "Kenneth Pajo",
         "quote": "What is Artificial Intelligence"
     }, {
-        "author": "Jethro Jabay",
+        "author": "Kenneth Pajo",
         "quote": "What is Machine Learning"
     }, {
-        "author": "Jethro Jabay",
+        "author": "Kenneth Pajo",
         "quote": "Robotics Systems"
     }, {
-        "author": "Jethro Jabay",
+        "author": "Kenneth Pajo",
         "quote": "Neural Networks"
     }, {
-        "author": "Jethro Jabay",
+        "author": "Kenneth Pajo",
         "quote": "How Has Technology Changed Our Lives"
     }, {
-        "author": "Jethro Jabay",
+        "author": "Kenneth Pajo",
         "quote": "Censorship on the Internet"
     }, {
-        "author": "Jethro Jabay",
+        "author": "Kenneth Pajo",
         "quote": "Should the Internet be Free?"
     }, {
-        "author": "Jethro Jabay",
+        "author": "Kenneth Pajo",
         "quote": "Email Marketing Tools"
     }, {
-        "author": "Jethro Jabay",
+        "author": "Kenneth Pajo",
         "quote": "Web Scrapers"
     }, {
-        "author": "Jethro Jabay",
+        "author": "Kenneth Pajo",
         "quote": "How Machine Learning Learns"
     }, {
-        "author": "Jethro Jabay",
+        "author": "Kenneth Pajo",
         "quote": "How is AI Affecting us Today"
     }, {
-        "author": "Jethro Jabay",
+        "author": "Kenneth Pajo",
         "quote": "New Tech Innovations for the Near Future"
     }, {
-        "author": "Jethro Jabay",
+        "author": "Kenneth Pajo",
         "quote": "What is Virtual Reality"
     }, {
-        "author": "Jethro Jabay",
+        "author": "Kenneth Pajo",
         "quote": "How are Clouds Technologies Used for Data Storage"
     }, {
-        "author": "Jethro Jabay",
+        "author": "Kenneth Pajo",
         "quote": "Mobile Apps That Improve Education"
     }, {
-        "author": "Jethro Jabay",
+        "author": "Kenneth Pajo",
         "quote": "How The Internet Will Develop"
     }, {
-        "author": "Jethro Jabay",
+        "author": "Kenneth Pajo",
         "quote": "Software as a Service"
     }, {
-        "author": "Jethro Jabay",
+        "author": "Kenneth Pajo",
         "quote": "Platform as a Service"
     }, {
-        "author": "Jethro Jabay",
+        "author": "Kenneth Pajo",
         "quote": "Infrastructure as a Service"
     }, {
-        "author": "Jethro Jabay",
+        "author": "Kenneth Pajo",
         "quote": "SaaS, PaaS, & IaaS: Main Differences"
     }, {
-        "author": "Jethro Jabay",
+        "author": "Kenneth Pajo",
         "quote": "How Google Ranks Websites"
     }, {
-        "author": "Jethro Jabay",
+        "author": "Kenneth Pajo",
         "quote": "3D Visualization in Architecture"
     }, {
-        "author": "Jethro Jabay",
+        "author": "Kenneth Pajo",
         "quote": "Essential Skills 3D Artists Need"
     }, {
-        "author": "Jethro Jabay",
+        "author": "Kenneth Pajo",
         "quote": "3D Rendering Tools"
     }, {
-        "author": "Jethro Jabay",
+        "author": "Kenneth Pajo",
         "quote": "DMaaS - Data Mining as a Service"
     }, {
-        "author": "Jethro Jabay",
+        "author": "Kenneth Pajo",
         "quote": "Augmented Reality"
     }, {
-        "author": "Jethro Jabay",
+        "author": "Kenneth Pajo",
         "quote": "VR vs. AR: Differences Explained"
     }, {
-        "author": "Jethro Jabay",
+        "author": "Kenneth Pajo",
         "quote": "Automation Systems in the 21st century"
     }, {
-        "author": "Jethro Jabay",
+        "author": "Kenneth Pajo",
         "quote": "Data Management for Big Companies"
     }, {
-        "author": "Jethro Jabay",
+        "author": "Kenneth Pajo",
         "quote": "Essential Data Analyst Skills"
     }, {
-        "author": "Jethro Jabay",
+        "author": "Kenneth Pajo",
         "quote": "AI and Gamification"
     }, {
-        "author": "Jethro Jabay",
+        "author": "Kenneth Pajo",
         "quote": "Data Mining for Employee Evaluation"
     }, {
-        "author": "Jethro Jabay",
+        "author": "Kenneth Pajo",
         "quote": "Data Mining in Healthcare"
     }, {
-        "author": "Jethro Jabay",
+        "author": "Kenneth Pajo",
         "quote": "Machine Learning for OTAs"
     }, {
-        "author": "Jethro Jabay",
+        "author": "Kenneth Pajo",
         "quote": "Facebook and Data"
     }, {
-        "author": "Jethro Jabay",
+        "author": "Kenneth Pajo",
         "quote": "Censorship on Social Media"
     }, {
-        "author": "Jethro Jabay",
+        "author": "Kenneth Pajo",
         "quote": "How Social Media Filters out Content"
     }, {
-        "author": "Jethro Jabay",
+        "author": "Kenneth Pajo",
         "quote": "Fingerprint Authentication"
     }, {
-        "author": "Jethro Jabay",
+        "author": "Kenneth Pajo",
         "quote": "IoT Sensors"
     }, {
-        "author": "Jethro Jabay",
+        "author": "Kenneth Pajo",
         "quote": "Web Ordering Systems"
     }, {
-        "author": "Jethro Jabay",
+        "author": "Kenneth Pajo",
         "quote": "How to Prevent Phishing Attacks"
     }, {
-        "author": "Jethro Jabay",
+        "author": "Kenneth Pajo",
         "quote": "Using Web Scraping for Research"
     }, {
-        "author": "Jethro Jabay",
+        "author": "Kenneth Pajo",
         "quote": "Web Proxies"
     }, {
-        "author": "Jethro Jabay",
+        "author": "Kenneth Pajo",
         "quote": "Virtual Private Networks"
     }, {
-        "author": "Jethro Jabay",
+        "author": "Kenneth Pajo",
         "quote": "Differences Between VPNs and Proxies"
     }, {
-        "author": "Jethro Jabay",
+        "author": "Kenneth Pajo",
         "quote": "How Proxies Enhances Web Scraping"
     }, {
-        "author": "Jethro Jabay",
+        "author": "Kenneth Pajo",
         "quote": "Home Automation Systems"
     }, {
-        "author": "Jethro Jabay",
+        "author": "Kenneth Pajo",
         "quote": "Smart Homes"
     }, {
-        "author": "Jethro Jabay",
+        "author": "Kenneth Pajo",
         "quote": "Warehouse Management Systems"
     }, {
-        "author": "Jethro Jabay",
+        "author": "Kenneth Pajo",
         "quote": "How Voice Recognition Systems Work"
     }, {
-        "author": "Jethro Jabay",
+        "author": "Kenneth Pajo",
         "quote": "QR Code Check-ins"
     }, {
-        "author": "Jethro Jabay",
+        "author": "Kenneth Pajo",
         "quote": "Smart Systems in Cars"
     }, {
-        "author": "Jethro Jabay",
+        "author": "Kenneth Pajo",
         "quote": "Should Cars Have More Computers or Less?"
     }, {
-        "author": "Jethro Jabay",
+        "author": "Kenneth Pajo",
         "quote": "Solar Grass Cutters With Automation"
     }, {
-        "author": "Jethro Jabay",
+        "author": "Kenneth Pajo",
         "quote": "Voice Controlled Tools"
     }, {
-        "author": "Jethro Jabay",
+        "author": "Kenneth Pajo",
         "quote": "CRM Software"
     }, {
-        "author": "Jethro Jabay",
+        "author": "Kenneth Pajo",
         "quote": "Online Training Software Benefits"
     }, {
-        "author": "Jethro Jabay",
+        "author": "Kenneth Pajo",
         "quote": "ChatBots: Introduction"
     }, {
-        "author": "Jethro Jabay",
+        "author": "Kenneth Pajo",
         "quote": "Complex Chat Bots"
     }, {
-        "author": "Jethro Jabay",
+        "author": "Kenneth Pajo",
         "quote": "Using ML for Cybersecurity"
     }, {
-        "author": "Jethro Jabay",
+        "author": "Kenneth Pajo",
         "quote": "Machine LEarning in Ecommerce"
     }, {
-        "author": "Jethro Jabay",
+        "author": "Kenneth Pajo",
         "quote": "Elearning and Gamification"
     }, {
-        "author": "Jethro Jabay",
+        "author": "Kenneth Pajo",
         "quote": "How Games Have Improved Digital Technologies"
     }, {
-        "author": "Jethro Jabay",
+        "author": "Kenneth Pajo",
         "quote": "How Far Have Video Games Gone?"
     }, {
-        "author": "Jethro Jabay",
+        "author": "Kenneth Pajo",
         "quote": "Home Voice Assistants"
     }, {
-        "author": "Jethro Jabay",
+        "author": "Kenneth Pajo",
         "quote": "How Technology Helps Disabled People"
     }, {
-        "author": "Jethro Jabay",
+        "author": "Kenneth Pajo",
         "quote": "Apps for Child Monitoring"
     }, {
-        "author": "Jethro Jabay",
+        "author": "Kenneth Pajo",
         "quote": "Nutrition Tools"
     }, {
-        "author": "Jethro Jabay",
+        "author": "Kenneth Pajo",
         "quote": "Semantic Web & Big Data"
     }, {
-        "author": "Jethro Jabay",
+        "author": "Kenneth Pajo",
         "quote": "Autonomous Systems Today"
     }, {
-        "author": "Jethro Jabay",
+        "author": "Kenneth Pajo",
         "quote": "Is The Internet Helping us?"
     }, {
-        "author": "Jethro Jabay",
+        "author": "Kenneth Pajo",
         "quote": "Blockchain and Crypto"
     }, {
-        "author": "Jethro Jabay",
+        "author": "Kenneth Pajo",
         "quote": "How Bitcoin Works"
     }, {
-        "author": "Jethro Jabay",
+        "author": "Kenneth Pajo",
         "quote": "IoT and 5G"
     }, {
-        "author": "Jethro Jabay",
+        "author": "Kenneth Pajo",
         "quote": "Edge Computing Explained"
     }
 ]
